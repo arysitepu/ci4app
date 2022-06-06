@@ -34,14 +34,16 @@ class Pages extends BaseController
                 [
                     'tipe' => 'rumah',
                     'alamat' => 'JL. Abc No.123',
-                    'kota' => 'Bandung'
+                    'kota' => 'Bandung',
+                    'handphone' => '085469874563'
                 ],
 
 
                 [
                     'tipe' => 'Kantor',
                     'alamat' => 'JL. Setia Budi No.193',
-                    'kota' => 'Bandung'
+                    'kota' => 'Bandung',
+                    'handphone' => '082156897456'
                 ],
 
             ]

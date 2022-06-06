@@ -11,6 +11,7 @@
                     <li><?= $a['tipe'];  ?></li>
                     <li><?= $a['alamat'];  ?></li>
                     <li><?= $a['kota'];  ?></li>
+                    <li><?= $a['handphone'] ?></li>
                 </ul>
 
             <?php endforeach; ?>
